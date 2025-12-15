@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtxbDFmYmRncTY3bzgyeXRtcTl3b3p6aXN1dml3c255cTE0cHNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hv13U4h8Y7hEdCQ0Ik/giphy.gif" width="150" />
+</p>
+
+<p align="center">
    <h1 align="center">Hi 👋,I'm Amandi Rajapaksha</h1>
 
   <h3 align="center"> Passionate MIS Student 💡 | Front-End Developer | UI/UX </h3>
