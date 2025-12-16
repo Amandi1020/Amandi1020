@@ -56,9 +56,7 @@
     </td>
   </tr>
 </table>
-<!-- ============================================ -->
-<!--      SECTION 5: GITHUB STATS CARDS         -->
-<!-- ============================================ -->
+
 <h2 align="center">📈 GitHub Analytics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amandi1020&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
@@ -84,16 +82,15 @@
   </a>
 </p>
 
-<!-- ============================================ -->
 <!--      SECTION 5: LANGUAGES & TOOLS          -->
-<!-- ============================================ -->
+
 <h2 align="center">🛠 Languages & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,php,postman,git,github,figma,mysql" />
 </p>
-<!-- ============================================ -->
+
 <!--      SECTION 6: CURRENTLY LEARNING         -->
-<!-- ============================================ -->
+
 <h2 align="center">🌱 Currently Learning</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -101,11 +98,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-<!-- ============================================ -->
 
-<!-- ============================================ -->
+
+
 <!--            SECTION 10: FOOTER              -->
-<!-- ============================================ -->
+
 <hr>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
