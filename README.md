@@ -33,6 +33,7 @@
 
 </p>
 
+
 <h2 align="center">📊 My Statistics</h2>
 <table align="center" width="100%">
   <tr>
@@ -62,6 +63,25 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amandi1020&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandi1020&theme=github-dark-blue&hide_border=true" width="49%" />
+</p>
+
+<h2 align="center">🌐 Connect with me</h2><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amandi-rajapaksha-397a21284/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/https://www.instagram.com/amandiiii_03/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:amandirajapaksha2003@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Amandi1020" target="_blank">
+    <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
+  </a>
 </p>
 
 <!-- ============================================ -->
