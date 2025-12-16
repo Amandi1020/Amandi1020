@@ -102,42 +102,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 <!-- ============================================ -->
-<!--       SECTION 7: FEATURED PROJECTS         -->
-<!-- ============================================ -->
-<!--  You can change repository names below     -->
-<!--  if you want to feature different projects -->
-<!-- ============================================ -->
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">
-  <a href="https://github.com/Amandi1020/SalonNilu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=SalonNilu&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Amandi1020/Intimacy-web-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=Intimacy-web-project&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Amandi1020/Phoenix_Airline_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=Phoenix_Airline_system&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Amandi1020/hackto-night-challenges">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=hackto-night-challenges&theme=radical&hide_border=true" />
-  </a>
-</p>
-<!-- ============================================ -->
-<!--      SECTION 8: CONTRIBUTION GRAPH         -->
-<!-- ============================================ -->
-<h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amandi1020&theme=react-dark&hide_border=true&area=true" width="90%" />
-</p>
-<!-- ============================================ -->
-<!--        SECTION 9: GITHUB TROPHIES          -->
-<!-- ============================================ -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amandi1020&theme=radical&no-frame=true&row=1&column=7" width="90%" />
-</p>
+
 <!-- ============================================ -->
 <!--            SECTION 10: FOOTER              -->
 <!-- ============================================ -->
