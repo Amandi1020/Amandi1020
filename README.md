@@ -31,68 +31,106 @@
   </tr>
 </table>
 
+</p>
 
-<h2 align="center">📊 GitHub Profile Stats</h2>
-
+<h2 align="center">📊 My Statistics</h2>
 <table align="center" width="100%">
   <tr>
-    <td valign="top" align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Amandi1020&show_icons=true&theme=dark" style="max-width:90%;" /><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Amandi1020&count_private=true&show_icons=true&theme=dark&hide_title=true&include_all_commits=true" style="max-width:90%;" /><br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandi1020&theme=dark&hide_border=true" style="max-width:90%;" /><br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandi1020&theme=dark&hide_border=true&mode=weekly" style="max-width:90%;" />
-    </td>
-    <td valign="top" align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandi1020&layout=compact&theme=dark" style="max-width:90%;" />
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amandi1020&theme=github_dark" width="100%" />
     </td>
   </tr>
 </table>
-
-
-
-
-<h2 align="center"> 🌐 Connect with me</h2><br>
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amandi1020&theme=github_dark" width="100%" />
+      <br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amandi1020&theme=github_dark&utcOffset=5.5" width="100%" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amandi1020&theme=github_dark" width="100%" />
+      <br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amandi1020&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+</table>
+<!-- ============================================ -->
+<!--      SECTION 5: GITHUB STATS CARDS         -->
+<!-- ============================================ -->
+<h2 align="center">📈 GitHub Analytics</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/amandi-rajapaksha-397a21284/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amandi1020&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandi1020&theme=github-dark-blue&hide_border=true" width="49%" />
 </p>
 
-
+<!-- ============================================ -->
+<!--      SECTION 5: LANGUAGES & TOOLS          -->
+<!-- ============================================ -->
 <h2 align="center">🛠 Languages & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,php,postman,git,github,figma,mysql" />
 </p>
-
-
-<h2 align="center">🌱 Currently Learning</h2><br>
+<!-- ============================================ -->
+<!--      SECTION 6: CURRENTLY LEARNING         -->
+<!-- ============================================ -->
+<h2 align="center">🌱 Currently Learning</h2>
 <p align="center">
-  <ul style="display: inline-block; text-align: left;">
-    <li>⚛️ React (Components, Hooks)</li>
-    <li>🎨 Tailwind CSS</li>
-    <li>🟢 Node.js (Basics)</li>
-    <li>🖌️ UI/UX design principles</li>
-  </ul>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+<!-- ============================================ -->
+<!--       SECTION 7: FEATURED PROJECTS         -->
+<!-- ============================================ -->
+<!--  You can change repository names below     -->
+<!--  if you want to feature different projects -->
+<!-- ============================================ -->
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/Amandi1020/SalonNilu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=SalonNilu&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Amandi1020/Intimacy-web-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=Intimacy-web-project&theme=radical&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Amandi1020/Phoenix_Airline_system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=Phoenix_Airline_system&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Amandi1020/hackto-night-challenges">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=hackto-night-challenges&theme=radical&hide_border=true" />
+  </a>
+</p>
+<!-- ============================================ -->
+<!--      SECTION 8: CONTRIBUTION GRAPH         -->
+<!-- ============================================ -->
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amandi1020&theme=react-dark&hide_border=true&area=true" width="90%" />
+</p>
+<!-- ============================================ -->
+<!--        SECTION 9: GITHUB TROPHIES          -->
+<!-- ============================================ -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amandi1020&theme=radical&no-frame=true&row=1&column=7" width="90%" />
+</p>
+<!-- ============================================ -->
+<!--            SECTION 10: FOOTER              -->
+<!-- ============================================ -->
+<hr>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Amandi1020">Amandi1020</a></i>
 </p>
 
 
 
-
-  ## 🚀 Latest Projects
-
-![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=SalonNilu)
-![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=portfolio-website&theme=dark)
-
-
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amandi1020&theme=github-dark)
 
 
 
