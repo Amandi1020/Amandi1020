@@ -69,7 +69,7 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/https://www.instagram.com/amandiiii_03/" target="_blank">
+  <a href="https://www.instagram.com/amandiiii_03/" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
