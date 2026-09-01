@@ -6,7 +6,7 @@
    <h1 align="center">Hi 👋,I'm Amandi Rajapaksha</h1>
    <h3 align="center">
   Management Information Systems Undergraduate | Business Analysis | Project Management
-</h3>
+</h3
 </p>
 
 <p align="center">
@@ -16,16 +16,17 @@
 <table>
   <tr>
     <!-- Left box with your info -->
-    <td>
-      <div align="left" style="border: 2px solid #4CAF50; border-radius: 15px; padding: 20px; max-width: 400px;">
-        <p>🎓 <b>Undergraduate at NSBM Green University</b> (Faculty of Computing)</p>
-        <p>🌱 Currently learning <b>React, JavaScript, PHP & SQL</b></p>
-        <p>🎨 Interested in <b>Front-End Development and UI/UX Design</b></p>
-        <p>🛠️ Building small projects to improve my skills</p>
-        <p>📬 How to reach me: <b>amandirajapaksha2003@gmail.com</b></p>
-        <p>🌱 Fun fact: I learn best by building small projects and improving them step by step</p>
-      </div>
-    </td>
+   <td>
+  <div align="left" style="border: 2px solid #4CAF50; border-radius: 15px; padding: 20px; max-width: 420px;">
+    <p>🎓 <b>Management Information Systems Undergraduate</b> at NSBM Green University</p>
+    <p>🔍 Interested in <b>Business Analysis, Requirements Engineering & Process Improvement</b></p>
+    <p>🚀 Developing skills in <b>Agile, Scrum & Project Management</b></p>
+    <p>📊 Building analytical skills with <b>Excel, SQL & Power BI</b></p>
+    <p>💻 Technical foundation in <b>Web Development, Databases & Software Development</b></p>
+    <p>🤝 Experienced in <b>team-based academic projects and collaborative development</b></p>
+    <p>🎯 Seeking opportunities in <b>Business Analysis & Project Management</b></p>
+  </div>
+</td>
     <td>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25zcndiZGN3YmdsdzBrOXNlZTRpY29jaGtjcnl4dWJxbnAxc2w1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
     </td>  
