@@ -4,8 +4,9 @@
 
 <p align="center">
    <h1 align="center">Hi 👋,I'm Amandi Rajapaksha</h1>
-
-  <h3 align="center"> Passionate MIS Student 💡 | Front-End Developer | UI/UX </h3>
+   <h3 align="center">
+  Management Information Systems Undergraduate | Business Analysis | Project Management
+</h3>
 </p>
 
 <p align="center">
