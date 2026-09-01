@@ -35,6 +35,39 @@
 
 </p>
 
+<h2 align="center">🎯 Career Focus</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔍 Business Analysis</h3>
+      <p>
+        Requirements Engineering<br>
+        Stakeholder Analysis<br>
+        Process Analysis & Mapping<br>
+        BPMN<br>
+        AS-IS / TO-BE Analysis<br>
+        Root Cause & Gap Analysis<br>
+        User Stories & Acceptance Criteria
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 Project Management</h3>
+      <p>
+        Agile & Scrum<br>
+        Project Planning<br>
+        Sprint Planning<br>
+        Task & Issue Tracking<br>
+        Team Coordination<br>
+        Project Documentation<br>
+        Progress Monitoring
+      </p>
+    </td>
+  </tr>
+</table>
+
+   
+
 
 <h2 align="center">📊 My Statistics</h2>
 <table align="center" width="100%">
